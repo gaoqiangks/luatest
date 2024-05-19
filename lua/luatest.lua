@@ -8,6 +8,7 @@ end
 
 function M.greet()
     print("hello " .. options.name)
+    print("bb")
     return M
 end
 
